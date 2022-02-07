@@ -14,13 +14,13 @@ function App() {
         <div class="row">
           <div class="col-3">
             <User name="Cat" image={userImage} description="Epicodus student ready to learn to code."/>
-            <p>trending stories</p>
+            <Trending />
           </div>
           <div class="col-6">
             <Newsfeed />
           </div>
           <div class="col-3">
-            <p>suggested friends</p>
+            <SuggestedFriends />
           </div>
         </div>
       </div>

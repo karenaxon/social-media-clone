@@ -5,7 +5,7 @@ This is a mock up of a social media app.
 
 
 <p align="center">
-<img src="src/images/component_diagram.png" height="382px">
+<img src="my-app/src/images/component_diagram.png">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
