@@ -3,8 +3,15 @@ This is a mock up of a social media app.
 
 #### By Karen Axon and Matt Casperson
 
-
 <p align="center">
+<img src="src/images/site-img.jpeg">
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## Component Diagram 
+<br />
+<p>
 <img src="src/images/component_diagram.png">
 </p>
 
